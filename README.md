@@ -95,13 +95,13 @@ rovsky-network-toolkit/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/rovsky-network-toolkit.git
+git clone https://github.com/rovsky-commits/moong-network-toolkit.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd rovsky-network-toolkit
+cd moong-network-toolkit
 ```
 
 Create a virtual environment:
@@ -150,9 +150,9 @@ This project is built to improve skills in:
 
 * [x] Create project structure
 * [x] Create README
-* [ ] CLI Banner
-* [ ] Main Menu
-* [ ] Network Information Module
+* [x] CLI Banner
+* [x] Main Menu
+* [x] Network Information Module
 * [ ] DNS Module
 * [ ] HTTP Module
 * [ ] SSL Module
