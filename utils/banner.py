@@ -1,0 +1,12 @@
+def show_banner():
+    print("=" * 50)
+    print("         MOONG NETWORK TOOLS")
+    print("=" * 50)
+    print()
+    print("Version : 0.1.0")
+    print("Python  : 3.13  ")
+    print("Author  : Rovsky Moong")
+    print()
+    print("=" * 50)
+    print()
+    print("Learning Networking & Cybersecurity")
